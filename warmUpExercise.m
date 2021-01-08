@@ -10,7 +10,7 @@ A = eye(5);
 %               and then set them accordingly. 
 
 
-
+A=A*3;
 
 
 
